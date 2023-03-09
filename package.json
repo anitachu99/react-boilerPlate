@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/anitachu99/react-boilerPlate/issues"
   },
-  "homepage": "https://github.com/anitachu99/react-boilerPlate#readme"
+  "homepage": "https://github.com/anitachu99/react-boilerPlate#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }

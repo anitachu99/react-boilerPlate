@@ -1,0 +1,23 @@
+{
+  "name": "react-boilerplate",
+  "version": "1.0.0",
+  "description": "This is my react-boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anitachu99/react-boilerPlate.git"
+  },
+  "keywords": [
+    "Node",
+    "React"
+  ],
+  "author": "Anita Chu",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/anitachu99/react-boilerPlate/issues"
+  },
+  "homepage": "https://github.com/anitachu99/react-boilerPlate#readme"
+}
